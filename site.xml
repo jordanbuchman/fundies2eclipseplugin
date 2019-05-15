@@ -3,7 +3,7 @@
    <description name="Fundies II Eclipse Plugin Update Site">
       This is the update site for my unofficial Fundies II Eclipse plugin.
    </description>
-   <feature url="features/FundiesIIFeature_1.0.0.201905150037.jar" id="FundiesIIFeature" version="1.0.0.201905150037">
+   <feature url="features/FundiesIIPluginFeature_1.0.0.201905150101.jar" id="FundiesIIPluginFeature" version="1.0.0.201905150101">
       <category name="FundiesII"/>
    </feature>
    <category-def name="FundiesII" label="Fundies II"/>
