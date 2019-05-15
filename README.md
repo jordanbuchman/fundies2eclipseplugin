@@ -1,1 +1,1 @@
-# fundies2eclipsetemplate
+# An unofficial Eclipse plugin for CS2510 (Fundies 2)
